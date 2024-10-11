@@ -1,0 +1,115 @@
+[2024-07-31 00:39:25.319] [DISPLAY] [Main ] [sysinfo] OS Version: Major: 10 Minor: 0 Build: 22631 Service Pack: 
+[2024-07-31 00:39:25.363] [DISPLAY] [Main ] [launcher] Opening log file.
+[2024-07-31 00:39:25.367] [WARNING] [Main ] [launcher] Unable to move log file, waiting and trying again...
+[2024-07-31 00:39:25.869] [WARNING] [Main ] [launcher] Unable to move log file, waiting and trying again...
+[2024-07-31 00:39:26.369] [WARNING] [Main ] [launcher] Couldn't move logfile C:\Users\plugs\Documents\Rockstar Games\Launcher\launcher.log!
+[2024-07-31 00:39:26.370] [DISPLAY] [Main ] [main] Command line: D:\Launcher\Launcher.exe -skipPatcherCheck -epicAppId=gta5  -AUTH_LOGIN=unused -AUTH_PASSWORD=1fc9057e35064798838f822cd1615d22 -AUTH_TYPE=exchangecode -epicapp=9d2d0eb64d5c44529cece33fe2a46482 -epicenv=Prod -EpicPortal -epicusername="Cornetin76" -epicuserid=7e36e32762c84dc09bd5703990d167b1 -epiclocale=es-MX -epicsandboxid=0584d2013f0149a791e7b9bad0eec102 -rlrosDomainEnv=prod @args.txt
+[2024-07-31 00:39:26.370] [DISPLAY] [Main ] [main] P4 Version: Change 45867953
+[2024-07-31 00:39:26.370] [DISPLAY] [Main ] [main] RGL Branch: release_07
+[2024-07-31 00:39:26.370] [DISPLAY] [Main ] [main] Version: 1.0.92.2003
+[2024-07-31 00:39:26.370] [DISPLAY] [Main ] [main] Parameters:
+[2024-07-31 00:39:26.370] [DISPLAY] [Main ] [main]     D:\Launcher\Launcher.exe
+[2024-07-31 00:39:26.370] [DISPLAY] [Main ] [main]     -skipPatcherCheck
+[2024-07-31 00:39:26.370] [DISPLAY] [Main ] [main]     -epicAppId=gta5
+[2024-07-31 00:39:26.371] [DISPLAY] [Main ] [main]     -AUTH_LOGIN=unused
+[2024-07-31 00:39:26.371] [DISPLAY] [Main ] [main]     -AUTH_PASSWORD=1fc9057e35064798838f822cd1615d22
+[2024-07-31 00:39:26.371] [DISPLAY] [Main ] [main]     -AUTH_TYPE=exchangecode
+[2024-07-31 00:39:26.371] [DISPLAY] [Main ] [main]     -epicapp=9d2d0eb64d5c44529cece33fe2a46482
+[2024-07-31 00:39:26.371] [DISPLAY] [Main ] [main]     -epicenv=Prod
+[2024-07-31 00:39:26.371] [DISPLAY] [Main ] [main]     -EpicPortal
+[2024-07-31 00:39:26.371] [DISPLAY] [Main ] [main]     -epicusername=Cornetin76
+[2024-07-31 00:39:26.371] [DISPLAY] [Main ] [main]     -epicuserid=7e36e32762c84dc09bd5703990d167b1
+[2024-07-31 00:39:26.371] [DISPLAY] [Main ] [main]     -epiclocale=es-MX
+[2024-07-31 00:39:26.371] [DISPLAY] [Main ] [main]     -epicsandboxid=0584d2013f0149a791e7b9bad0eec102
+[2024-07-31 00:39:26.371] [DISPLAY] [Main ] [main]     -rlrosDomainEnv=prod
+[2024-07-31 00:39:26.371] [DISPLAY] [Main ] [main]     @args.txt
+[2024-07-31 00:39:26.371] [DISPLAY] [Main ] [main] Initial Working Directory: D:\GTAV
+[2024-07-31 00:39:26.371] [DISPLAY] [Main ] [main] Working directory: D:\Launcher
+[2024-07-31 00:39:26.424] [DISPLAY] [Main ] [minmode] Running in Epic mode.
+[2024-07-31 00:39:26.424] [DISPLAY] [Main ] [minmode] Title Id: gta5
+[2024-07-31 00:39:26.424] [DISPLAY] [Main ] [minmode] Location: D:\GTAV
+[2024-07-31 00:39:26.424] [DISPLAY] [Main ] [gamepipemtl] Forwarding commands: D:\Launcher\Launcher.exe -skipPatcherCheck -epicAppId=gta5  -AUTH_LOGIN=unused -AUTH_PASSWORD=1fc9057e35064798838f822cd1615d22 -AUTH_TYPE=exchangecode -epicapp=9d2d0eb64d5c44529cece33fe2a46482 -epicenv=Prod -EpicPortal -epicusername="Cornetin76" -epicuserid=7e36e32762c84dc09bd5703990d167b1 -epiclocale=es-MX -epicsandboxid=0584d2013f0149a791e7b9bad0eec102 -rlrosDomainEnv=prod @args.txt
+[2024-07-31 00:39:26.525] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:39:26.525] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:39:56.753] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:39:56.753] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:40:26.971] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:40:26.971] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:40:57.177] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:40:57.177] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:41:27.474] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:41:27.474] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:41:57.774] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:41:57.774] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:42:28.075] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:42:28.075] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:42:58.290] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:42:58.290] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:43:28.493] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:43:28.493] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:43:58.731] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:43:58.731] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:44:29.026] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:44:29.026] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:44:59.312] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:44:59.312] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:45:29.527] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:45:29.527] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:45:59.817] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:45:59.817] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:46:30.035] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:46:30.035] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:47:00.253] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:47:00.253] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:47:30.517] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:47:30.517] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:48:00.777] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:48:00.777] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:48:31.000] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:48:31.000] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:49:01.255] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:49:01.255] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:49:31.523] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:49:31.523] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:50:01.768] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:50:01.768] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:50:31.983] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:50:31.983] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:51:02.273] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:51:02.273] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:51:32.517] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:51:32.517] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:52:02.801] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:52:02.801] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:52:33.047] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:52:33.047] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:53:03.271] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:53:03.271] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:53:33.555] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:53:33.555] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:54:03.800] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:54:03.800] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:54:34.036] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:54:34.036] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:55:04.318] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:55:04.318] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:55:34.575] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:55:34.575] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:56:04.873] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:56:04.873] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:56:35.157] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:56:35.157] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:57:05.397] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:57:05.398] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:57:35.681] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:57:35.681] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:58:05.963] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:58:05.963] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:58:36.214] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:58:36.214] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:59:06.506] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:59:06.506] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 00:59:36.804] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 00:59:36.804] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).
+[2024-07-31 01:00:07.069] [DISPLAY] [Main ] [gamepipemtl] Received command from another instance.
+[2024-07-31 01:00:07.069] [DISPLAY] [Main ] [gamepipemtl] Command 12 received, 0 param(s).

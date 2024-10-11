@@ -1,0 +1,79 @@
+Frames Per Second (Higher is better) Min, Max, Avg
+Pass 0, 4.846730, 31.650074, 21.182354
+
+Time in milliseconds(ms). (Lower is better). Min, Max, Avg
+Pass 0, 31.595503, 206.324692, 47.209106
+
+Frames under 16ms (for 60fps): 
+Pass 0: 0/163 frames (0.00%)
+
+Frames under 33ms (for 30fps): 
+Pass 0: 1/163 frames (0.61%)
+
+Percentiles in ms for pass 0
+50%,	46.00
+75%,	50.00
+80%,	52.00
+85%,	54.00
+90%,	56.00
+91%,	56.00
+92%,	56.00
+93%,	57.00
+94%,	57.00
+95%,	58.00
+96%,	59.00
+97%,	60.00
+98%,	62.00
+99%,	67.00
+
+=== SYSTEM ===
+Windows 11 Home Single Language 64-bit (6.2, Build 9200)
+DX Feature Level: 11.0
+11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz (8 CPUs), ~2.5GHz
+16384MB RAM
+Intel(R) Iris(R) Xe Graphics, 134MB, Driver Version Unknown
+Graphics Card Vendor Id 0x8086 with Device ID 0x9a49
+
+=== SETTINGS ===
+Display: 1920x1080 (Windowed) @ 60Hz VSync ON
+Tessellation: 0
+LodScale: 0.000000
+PedLodBias: 0.000000
+VehicleLodBias: 0.000000
+ShadowQuality: 1
+ReflectionQuality: 1
+ReflectionMSAA: 0
+SSAO: 0
+AnisotropicFiltering: 0
+MSAA: 0
+MSAAFragments: 0
+MSAAQuality: 0
+SamplingMode: 0
+TextureQuality: 2
+ParticleQuality: 0
+WaterQuality: 0
+GrassQuality: 1
+ShaderQuality: 1
+Shadow_SoftShadows: 0
+UltraShadows_Enabled: false
+Shadow_ParticleShadows: false
+Shadow_Distance: 1.000000
+Shadow_LongShadows: false
+Shadow_SplitZStart: 0.930000
+Shadow_SplitZEnd: 0.890000
+Shadow_aircraftExpWeight: 0.990000
+Shadow_DisableScreenSizeCheck: false
+Reflection_MipBlur: true
+FXAA_Enabled: false
+TXAA_Enabled: false
+Lighting_FogVolumes: false
+Shader_SSA: true
+DX_Version: 2
+CityDensity: 0.000000
+PedVarietyMultiplier: 1.000000
+VehicleVarietyMultiplier: 1.000000
+PostFX: 0
+DoF: false
+HdStreamingInFlight: false
+MaxLodScale: 0.000000
+MotionBlurStrength: 0.000000

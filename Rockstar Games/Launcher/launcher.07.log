@@ -1,0 +1,20 @@
+[2024-07-29 23:18:47.871] [DISPLAY] [Main ] [sysinfo] OS Version: Major: 10 Minor: 0 Build: 22631 Service Pack: 
+[2024-07-29 23:18:47.895] [DISPLAY] [Main ] [launcher] Opening log file.
+[2024-07-29 23:18:47.896] [DISPLAY] [Main ] [main] Command line: "D:\Launcher\Launcher.exe" -skipPatcherCheck -EpicPortal -epiclocale=es-MX -epicsandboxid=0584d2013f0149a791e7b9bad0eec102 -rlrosDomainEnv=prod @args.txt -upgrade -relaunchFromEpic=9d2d0eb64d5c44529cece33fe2a46482
+[2024-07-29 23:18:47.896] [DISPLAY] [Main ] [main] P4 Version: Change 45867953
+[2024-07-29 23:18:47.896] [DISPLAY] [Main ] [main] RGL Branch: release_07
+[2024-07-29 23:18:47.896] [DISPLAY] [Main ] [main] Version: 1.0.92.2003
+[2024-07-29 23:18:47.896] [DISPLAY] [Main ] [main] Parameters:
+[2024-07-29 23:18:47.896] [DISPLAY] [Main ] [main]     D:\Launcher\Launcher.exe
+[2024-07-29 23:18:47.896] [DISPLAY] [Main ] [main]     -skipPatcherCheck
+[2024-07-29 23:18:47.896] [DISPLAY] [Main ] [main]     -EpicPortal
+[2024-07-29 23:18:47.896] [DISPLAY] [Main ] [main]     -epiclocale=es-MX
+[2024-07-29 23:18:47.896] [DISPLAY] [Main ] [main]     -epicsandboxid=0584d2013f0149a791e7b9bad0eec102
+[2024-07-29 23:18:47.896] [DISPLAY] [Main ] [main]     -rlrosDomainEnv=prod
+[2024-07-29 23:18:47.896] [DISPLAY] [Main ] [main]     @args.txt
+[2024-07-29 23:18:47.896] [DISPLAY] [Main ] [main]     -upgrade
+[2024-07-29 23:18:47.896] [DISPLAY] [Main ] [main]     -relaunchFromEpic=9d2d0eb64d5c44529cece33fe2a46482
+[2024-07-29 23:18:47.896] [DISPLAY] [Main ] [main] Initial Working Directory: D:\Launcher
+[2024-07-29 23:18:47.896] [DISPLAY] [Main ] [main] Working directory: D:\Launcher
+[2024-07-29 23:18:47.914] [DISPLAY] [Main ] [minmode] Starting up normally.
+[2024-07-29 23:18:47.988] [DISPLAY] [Main ] [main] Shutting down to request third-party min-mode launch

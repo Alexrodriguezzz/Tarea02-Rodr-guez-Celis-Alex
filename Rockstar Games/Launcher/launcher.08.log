@@ -1,0 +1,79 @@
+[2024-07-29 23:18:27.100] [DISPLAY] [Main ] [launcher] Opening log file.
+[2024-07-29 23:18:27.101] [DISPLAY] [Main ] [main] Command line: "D:\Launcher\Launcher.exe" -skipPatcherCheck -epicAppId=gta5  -AUTH_LOGIN=unused -AUTH_PASSWORD=c601aa7478774f928be5e33df01e4649 -AUTH_TYPE=exchangecode -epicapp=9d2d0eb64d5c44529cece33fe2a46482 -epicenv=Prod -EpicPortal -epicusername="Cornetin76" -epicuserid=7e36e32762c84dc09bd5703990d167b1 -epiclocale=es-MX -epicsandboxid=0584d2013f0149a791e7b9bad0eec102 -rlrosDomainEnv=prod @args.txt
+[2024-07-29 23:18:27.101] [DISPLAY] [Main ] [main] P4 Version: Change 45867953
+[2024-07-29 23:18:27.101] [DISPLAY] [Main ] [main] RGL Branch: release_07
+[2024-07-29 23:18:27.101] [DISPLAY] [Main ] [main] Version: 1.0.92.2003
+[2024-07-29 23:18:27.101] [DISPLAY] [Main ] [main] Parameters:
+[2024-07-29 23:18:27.101] [DISPLAY] [Main ] [main]     D:\Launcher\Launcher.exe
+[2024-07-29 23:18:27.101] [DISPLAY] [Main ] [main]     -skipPatcherCheck
+[2024-07-29 23:18:27.101] [DISPLAY] [Main ] [main]     -epicAppId=gta5
+[2024-07-29 23:18:27.101] [DISPLAY] [Main ] [main]     -AUTH_LOGIN=unused
+[2024-07-29 23:18:27.101] [DISPLAY] [Main ] [main]     -AUTH_PASSWORD=c601aa7478774f928be5e33df01e4649
+[2024-07-29 23:18:27.101] [DISPLAY] [Main ] [main]     -AUTH_TYPE=exchangecode
+[2024-07-29 23:18:27.101] [DISPLAY] [Main ] [main]     -epicapp=9d2d0eb64d5c44529cece33fe2a46482
+[2024-07-29 23:18:27.101] [DISPLAY] [Main ] [main]     -epicenv=Prod
+[2024-07-29 23:18:27.101] [DISPLAY] [Main ] [main]     -EpicPortal
+[2024-07-29 23:18:27.101] [DISPLAY] [Main ] [main]     -epicusername=Cornetin76
+[2024-07-29 23:18:27.101] [DISPLAY] [Main ] [main]     -epicuserid=7e36e32762c84dc09bd5703990d167b1
+[2024-07-29 23:18:27.101] [DISPLAY] [Main ] [main]     -epiclocale=es-MX
+[2024-07-29 23:18:27.101] [DISPLAY] [Main ] [main]     -epicsandboxid=0584d2013f0149a791e7b9bad0eec102
+[2024-07-29 23:18:27.101] [DISPLAY] [Main ] [main]     -rlrosDomainEnv=prod
+[2024-07-29 23:18:27.101] [DISPLAY] [Main ] [main]     @args.txt
+[2024-07-29 23:18:27.101] [DISPLAY] [Main ] [main] Initial Working Directory: D:\GTAV
+[2024-07-29 23:18:27.101] [DISPLAY] [Main ] [main] Working directory: D:\Launcher
+[2024-07-29 23:18:27.126] [DISPLAY] [Main ] [minmode] Running in Epic mode.
+[2024-07-29 23:18:27.126] [DISPLAY] [Main ] [minmode] Title Id: gta5
+[2024-07-29 23:18:27.126] [DISPLAY] [Main ] [minmode] Location: D:\GTAV
+[2024-07-29 23:18:27.145] [DISPLAY] [Main ] [titlemanager] Installed titles:
+[2024-07-29 23:18:27.145] [DISPLAY] [Main ] [titlemanager]  Title                             Progress               Version              Location                                                    
+[2024-07-29 23:18:27.145] [DISPLAY] [Main ] [preqmanager] Could not get preq list from disk; no preqs known to be installed.
+[2024-07-29 23:18:27.149] [WARNING] [Main ] [titlemanager] RGL install location not set, using exe location: D:\Launcher
+[2024-07-29 23:18:27.150] [WARNING] [Main ] [settingsmanager] Couldn't read settings file C:\Users\plugs\AppData\Local\Rockstar Games\Launcher\settings_user.dat; using defaults.
+[2024-07-29 23:18:27.150] [WARNING] [Main ] [settingsmanager] Couldn't read settings file C:\ProgramData\Rockstar Games\Launcher\settings_machine.dat; using defaults.
+[2024-07-29 23:18:27.150] [DISPLAY] [Main ] [settingsmanager] No user language setting, defaulting to 'es-MX'
+[2024-07-29 23:18:27.151] [DISPLAY] [Main ] [svc] Service version: 1.0.92.2003 (1.0.92.2003)
+[2024-07-29 23:18:27.207] [DISPLAY] [Main ] [main] Current environment (prod) different to previous launch (); updating environment setting
+[2024-07-29 23:18:27.208] [DISPLAY] [Main ] [fileutils] Version: 2.3.3.1 | 1.0.92.2003 | FFP
+[2024-07-29 23:18:27.219] [ ERROR ] [Workr] [titleupdater] Unable to load merged manifest from disk for title Rockstar Games Launcher.
+[2024-07-29 23:18:27.941] [DISPLAY] [bgsvc] [svc] Received response from service.
+[2024-07-29 23:18:28.185] [DISPLAY] [Main ] [systemtray] System tray: enabled
+[2024-07-29 23:18:28.196] [DISPLAY] [Main ] [launcher] Passed check: majorVersion(10.0.22631) >= 10
+[2024-07-29 23:18:28.199] [DISPLAY] [Workr] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml'
+[2024-07-29 23:18:28.748] [DISPLAY] [Workr] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml' (status: 0/200)
+[2024-07-29 23:18:28.748] [DISPLAY] [Workr] [titlemanager] Downloading title list...
+[2024-07-29 23:18:28.748] [DISPLAY] [Workr] [titlemanager] Downloading default title list (SCS)...
+[2024-07-29 23:18:28.748] [DISPLAY] [Workr] [idownloader] Starting download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken='
+[2024-07-29 23:18:29.701] [DISPLAY] [Workr] [idownloader] Completed download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken=' (status: 0/200)
+[2024-07-29 23:18:29.701] [DISPLAY] [Workr] [titlemanager] Title list updated.
+[2024-07-29 23:18:29.701] [DISPLAY] [Workr] [launcher] Checking for self-update...
+[2024-07-29 23:18:29.705] [DISPLAY] [Workr] [idownloader] Starting download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetBuildManifestFullNoAuth?branchAccessToken=BRANCHACCESS token="mA9NcSoL+2gbg6ikN7hXsHRdkvcUlpNC25/y5DIfoeaoIk3jdLmQqWyIyrXrFHlxZ20sy2ArygSHjr+nZg4deg==",signature="8/e7b4YWSmh3v2xmuJZiMKNc9Z5gDd3UJGetXCS5ELk="'
+[2024-07-29 23:18:31.186] [DISPLAY] [Workr] [idownloader] Completed download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetBuildManifestFullNoAuth?branchAccessToken=BRANCHACCESS token="mA9NcSoL+2gbg6ikN7hXsHRdkvcUlpNC25/y5DIfoeaoIk3jdLmQqWyIyrXrFHlxZ20sy2ArygSHjr+nZg4deg==",signature="8/e7b4YWSmh3v2xmuJZiMKNc9Z5gDd3UJGetXCS5ELk="' (status: 0/200)
+[2024-07-29 23:18:31.188] [DISPLAY] [Workr] [statuschecker] Title Rockstar Games Launcher: 0.0 KB / 276.12 MB
+[2024-07-29 23:18:31.188] [DISPLAY] [Workr] [selfupdate] Updating launcher...
+[2024-07-29 23:18:32.999] [DISPLAY] [Admin] [idownloader] Starting download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/RetrieveFileChunkNoAuthMulti'
+[2024-07-29 23:18:34.307] [DISPLAY] [Admin] [idownloader] Completed download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/RetrieveFileChunkNoAuthMulti' (status: 0/200)
+[2024-07-29 23:18:44.982] [DISPLAY] [Workr] [downloadprogress] Dl: D|155881352|12|3|0|0
+[2024-07-29 23:18:44.983] [DISPLAY] [Workr] [titleupdater] Launcher needs to restart to be made up-to-date.
+[2024-07-29 23:18:44.983] [DISPLAY] [Workr] [titleupdater] Update of Rockstar Games Launcher succeeded; needs restart to complete.
+[2024-07-29 23:18:45.180] [DISPLAY] [Workr] [selfupdate] Applying downloaded self-update...
+[2024-07-29 23:18:45.180] [DISPLAY] [Workr] [fileutils] Unable to get file version info size for D:\Launcher\Launcher.exe.swap
+[2024-07-29 23:18:45.180] [DISPLAY] [Workr] [title] Swap file for Rockstar Games Launcher not found during self update in D:\Launcher\Launcher.exe.swap
+[2024-07-29 23:18:45.180] [DISPLAY] [Workr] [fileutils] Unable to get file version info size for D:\Launcher\Launcher.exe.swap
+[2024-07-29 23:18:45.199] [DISPLAY] [Workr] [title] Installed launcher version in registry updated: 1.0.92.2003 -> 1.0.92.2003_S7_R2
+[2024-07-29 23:18:45.199] [DISPLAY] [Workr] [title] Updated version [mv] for title Rockstar Games Launcher : 1.0.92.2003_S7_R2
+[2024-07-29 23:18:45.306] [DISPLAY] [Workr] [title] Current version for title [pv] Rockstar Games Launcher : 1.0.92.2003
+[2024-07-29 23:18:45.322] [DISPLAY] [Workr] [title] Installed launcher version in registry updated: 1.0.92.2003_S7_R2 -> 1.0.92.2003
+[2024-07-29 23:18:45.322] [DISPLAY] [Workr] [fileutils] Unable to get file version info size for D:\Launcher\Launcher.exe.swap
+[2024-07-29 23:18:45.322] [DISPLAY] [Workr] [title] Swap file for Rockstar Games Launcher not found during self update in D:\Launcher\Launcher.exe.swap
+[2024-07-29 23:18:45.322] [DISPLAY] [Workr] [fileutils] Unable to get file version info size for D:\Launcher\Launcher.exe.swap
+[2024-07-29 23:18:45.338] [DISPLAY] [Workr] [title] Installed launcher version in registry updated: 1.0.92.2003 -> 1.0.92.2003_S7_R2
+[2024-07-29 23:18:45.338] [DISPLAY] [Workr] [title] Updated version [mv] for title Rockstar Games Launcher : 1.0.92.2003_S7_R2
+[2024-07-29 23:18:45.357] [DISPLAY] [Workr] [selfupdate] Self-update applied, need to restart.
+[2024-07-29 23:18:45.362] [DISPLAY] [Workr] [launcher] Restarting to apply self-update...
+[2024-07-29 23:18:45.362] [DISPLAY] [Workr] [lifecycle] Setting to restart after exit.
+[2024-07-29 23:18:45.362] [DISPLAY] [Workr] [external] Requesting Epic re-launch of title '9d2d0eb64d5c44529cece33fe2a46482'
+[2024-07-29 23:18:45.362] [DISPLAY] [Workr] [launcher] Shutdown requested! Forced: false
+[2024-07-29 23:18:45.362] [DISPLAY] [Workr] [launcher] Completed Social Club Pre-initialization tasks
+[2024-07-29 23:18:45.362] [DISPLAY] [Main ] [launcher] StartShutdown - Now in progress
+[2024-07-29 23:18:45.678] [DISPLAY] [Main ] [app] Application quit requested (exit code: 0)
+[2024-07-29 23:18:45.693] [DISPLAY] [Main ] [svc] Stopping the background service.
